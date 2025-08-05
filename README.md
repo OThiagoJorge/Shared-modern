@@ -1,4 +1,4 @@
-﻿Shared – 0.2.1
+﻿Shared – 0.2.2
 ==============
 Forked from shared by Kevin Jones (https://twitter.com/hutkev).
 Originally published under the Apache License 2.0.
