@@ -1,6 +1,6 @@
 {
   "name": "shared-updated",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "author": "Kevin Jones <k.j.jonez@gmail.com>",
   "description": "Modern fork of shared (Kevin Jones), updated for latest Node.js and MongoDB",
   "main": "lib/shared.js",
