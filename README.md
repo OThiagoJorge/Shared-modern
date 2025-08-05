@@ -1,6 +1,8 @@
 ﻿Shared – 0.2.1
 ==============
-Kevin Jones (https://twitter.com/hutkev)
+Forked from shared by Kevin Jones (https://twitter.com/hutkev).
+Originally published under the Apache License 2.0.
+Maintained fork with updates for modern Node and MongoDB versions.
 
 Shared is an interface for managing shared objects. In this version the only supported store is [MongoDB](http://www.mongodb.org). The primary interface uses direct object manipulation to make it trivially easy to use. 
 
