@@ -1,5 +1,5 @@
 {
-  "name": "shared",
+  "name": "shared-updated",
   "version": "0.2.2",
   "author": "Kevin Jones <k.j.jonez@gmail.com>",
   "description": "Modern fork of shared (Kevin Jones), updated for latest Node.js and MongoDB",
